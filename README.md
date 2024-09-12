@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @utkarsh-soni488
 - 👀 I’m interested in contributing to open source apps and softwares.
 - 🌱 I’m currently learning ios development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin --> https://www.linkedin.com/in/utkarsh-soni-609996220/
 
 <!---
